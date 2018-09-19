@@ -1,9 +1,9 @@
+.page-footer,
 .page-header {
     padding: 10px;
     background-color: #eeeeee;
 }
 
 .page-footer {
-    padding: 10px;
-    background-color: #eeeeee;
+    margin-top: 20px;
 }
