@@ -1,7 +1,7 @@
 .page-header,
 .page-footer {
     padding: 10px;
-    background-color: #eeeeee;
+    background-color: #eee;
 }
 
 .page-footer {
@@ -10,7 +10,6 @@
 
 .price-list {
     width: 100%;
-    border-spacing: 0;
     border-collapse: collapse;
 }
 
@@ -20,7 +19,7 @@
 }
 
 .price-list td {
-    border: 1px solid #333333;
+    border: 1px solid #333;
 }
 
 .price-list th,
@@ -34,4 +33,9 @@
 
 .price-list .price-name {
     font-weight: bold;
+}
+
+.feedback-form-group {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
